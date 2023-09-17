@@ -1,6 +1,6 @@
 ![MasterHead](https://lh3.googleusercontent.com/sVaz-3pfOE1l5gqsC092PWapkcApxtI1syI1KMI9NR0axglPbEW7Q7VqvstKFPQUwSrmx2onXXVTzrdxfxUcdMyH3RCLla6MtqAy1WCvtGVutflUMFbIey1PCLN6ICIedQ=w740)
 <h1 align="center">&#127808;&#127808;&#127808;&#127808;&#127808;Hi there👋, I'm Derek&#127808;&#127808;&#127808;&#127808;&#127808; </h1>
-<h3 align="center">I am an apprentice who is improving himself in the field of Software.</h3>
+<h3 align="center">I am an apprentice who is improving himself in the field of Software. &#127481;&#127479;</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/11-26-2015/DS6PR7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doruk34&label=Profile%20views&color=0e75b6&style=flat" alt="doruk34" /> </p>
