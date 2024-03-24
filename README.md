@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Anything related to Software Development**
 
-- 📫 How to reach me **akgundoruk@gmail.com.tr** & **doruk.akgun@bdo.com.tr**
+- 📫 How to reach me **akgundoruk@gmail.com.tr**
 
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/profile?lang=tr](https://europa.eu/europass/eportfolio/screen/profile?lang=tr)
 
