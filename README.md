@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doruk34&label=Profile%20views&color=0e75b6&style=flat" alt="doruk34" /> </p>
 
+- 🎓 ODTÜ KKK (METU NCC) / Business Administration       
+  🎓 Marmara University / Master's of Information Systems (MIS)
+
 - 🔭 I’m currently working on **Algorithms and Coding**
 
-- 🌱 I’m currently learning **Python,MS-SQL,Html**
+- 🌱 I’m currently learning **Python,MS-SQL,Html,CSS,Java-Script,React**
 
 - 👯 I’m looking to collaborate on **Programming**
 
