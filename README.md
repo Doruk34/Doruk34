@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Algorithms and Coding**
 
-- 🌱 I’m currently learning **Python,MS-SQL,Html,CSS,Java-Script,React**
+- 🌱 I’m currently learning **Python, MS-SQL, Html, CSS, Java-Script and React**
 
 - 👯 I’m looking to collaborate on **Programming**
 
