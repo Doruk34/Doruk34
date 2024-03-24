@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doruk34&label=Profile%20views&color=0e75b6&style=flat" alt="doruk34" /> </p>
 
 - 🎓 ODTÜ KKK (METU NCC) / Business Administration       
+
   🎓 Marmara University / Master's of Information Systems (MIS)
 
 - 🔭 I’m currently working on **Algorithms and Coding**
@@ -17,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Anything related to Software Development**
 
-- 📫 How to reach me **akgundoruk@gmail.com**
+- 📫 How to reach me **akgundoruk@gmail.com.tr** / **doruk.akgun@bdo.com.tr**
 
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/profile?lang=tr](https://europa.eu/europass/eportfolio/screen/profile?lang=tr)
 
