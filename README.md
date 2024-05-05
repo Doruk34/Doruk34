@@ -54,6 +54,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     </p>
+    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doruk34&show_icons=true&locale=en" alt="doruk34" /></p>
 
