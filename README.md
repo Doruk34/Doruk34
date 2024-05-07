@@ -67,9 +67,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doruk34&show_icons=true&locale=en" alt="doruk34" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doruk34&" alt="doruk34" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Doruk34&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doruk34&show_icons=true&locale=en&layout=compact" alt="doruk34" /></p>
+<div>
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=doruk34&show_icons=true&locale=en&theme=shadow_green" alt="doruk34" />
+  <img width="44%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=doruk34&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="doruk34" />
+  </div>
+</div>
+
+
+
 
